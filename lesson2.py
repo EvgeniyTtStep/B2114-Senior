@@ -1,5 +1,6 @@
 class Student:
     count = 0
+
     def __init__(self, name, age=18, height=170):
         self.height = height
         self.name = name
@@ -15,8 +16,6 @@ class Student:
 
     def __str__(self):
         return "Hello, my name is " + self.name + "!"
-
-
 
 
 jack_student = Student(name="Jack", age=15, height=160)
