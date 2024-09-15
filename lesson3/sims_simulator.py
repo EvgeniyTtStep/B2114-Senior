@@ -18,7 +18,6 @@ class Human:
         self.car = Auto(brands_of_car)
 
     def get_job(self):
-
         if self.car.drive():
             pass
         else:
