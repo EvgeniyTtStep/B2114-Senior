@@ -62,3 +62,6 @@ finally:
 
 print("========================")
 print("End code")
+
+
+"#bd1c > div.wMain.clearfix > div.rSide > table > tbody > tr.temperature > td.p4.bR.cur"
